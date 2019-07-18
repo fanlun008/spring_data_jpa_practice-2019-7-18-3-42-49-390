@@ -1,0 +1,3 @@
+2019-07-18 17:46:16 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO PROSECUTOR VALUE[*]('jjl','yuan','78','male','klk','klk','gfgf') "; expected "., (, DIRECT, SORTED, DEFAULT, VALUES, SET, (, WITH, SELECT, FROM"; SQL statement:
+insert into PROSECUTOR value('jjl','yuan','78','male','klk','klk','gfgf') [42001-197]
